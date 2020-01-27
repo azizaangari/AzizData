@@ -22,7 +22,9 @@ The Beeswarm Plot below shows the distribution of Saudis in the top 10 States th
 
 I chose this graph to understand the dispersion between where Saudis choose to reside in as students in the United States. There is a misconception that since most of them are funded by their governments, cost of living is secondary. However, we can see that annual income plays a huge role in deciding where they live. From the beeswarm plot, we can see that states such as NY & CA have less amount of students and the ones who live there make well above $50K, on average. Colorado and Texas are more popular than MS despite the similar costs of living, which also proves that metropolitan areas provide a sense of where Saudis choose to live despite their income.
 
-### The table below shows the distribution of Saudis in each of the above states
+### The table below shows the distribution of Saudis in each of the above states 
+(I know it's not showing up properly, I tried everything but I couldn't. Didn't want to remove it entirely because I wanted you to at least view the data :blush:)
+
 State | Number of Saudis
 ------------ | ------------
 CO | 25000
