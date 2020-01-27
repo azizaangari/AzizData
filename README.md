@@ -9,4 +9,4 @@ This class reminded me of a YouTube channel called Vox. A large majority of Vox'
 
 # Portfolio
 
-#DataVis2/dataviz2.md.md
+datavis2.md.md
