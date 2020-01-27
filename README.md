@@ -9,4 +9,4 @@ This class reminded me of a YouTube channel called Vox. A large majority of Vox'
 
 # Portfolio
 
-[some text here](https://azizaangari.github.io/AzizData/DataVis2)
+[Click Here to View Assignment 2!](https://azizaangari.github.io/AzizData/DataVis2)
