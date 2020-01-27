@@ -7,6 +7,6 @@ My name is Aziz and I'm an international student from Saudi Arabia studying Ente
 # What I hope to learn
 This class reminded me of a YouTube channel called Vox. A large majority of Vox's content includes visually appealing graphs and mindmaps that engage the reader (or watcher). I am interested in the idea of utilizing visuals to simplify complicated data that would have not been accessible to the average person otherwise. Learning how to read, critique, and build visually appealing datasets is what I hope to learn from this course.
 
-# Portfolio
+# Assignment 2: OECD data visualization
 
-[Click Here to View Assignment 2!](https://azizaangari.github.io/AzizData/DataVis2)
+[Click Here to View Assignment 2](https://azizaangari.github.io/AzizData/DataVis2)
