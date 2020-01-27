@@ -9,4 +9,4 @@ This class reminded me of a YouTube channel called Vox. A large majority of Vox'
 
 # Portfolio
 
-[some text here](/dataviz2.md.md)
+[some text here](/DataViz2.md)
