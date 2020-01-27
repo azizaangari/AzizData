@@ -9,5 +9,4 @@ This class reminded me of a YouTube channel called Vox. A large majority of Vox'
 
 # Assignment 2: OECD data visualization
 
-[Click Here to View Assignment 2]
-https://azizaangari.github.io/AzizData/datavis2
+[Click Here to View Assignment 2](https://azizaangari.github.io/AzizData/datavis2)
