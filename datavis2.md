@@ -24,7 +24,7 @@ I chose this graph to understand the dispersion between where Saudis choose to r
 
 ### The table below shows the distribution of Saudis in each of the above states
 State | Number of Saudis
------ | -----
+------------ | ------------
 CO | 25000
 TX | 21000
 OR | 19000
