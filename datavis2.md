@@ -1,13 +1,5 @@
-# Test
+# Data Visualization #2
 [Back to Main Portfolio](https://azizaangari.github.io/AzizData/)
-
-
-
-# Debt to GDP
-
-
-<iframe src="https://data.oecd.org/chart/5Pgq" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5Pgq" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
-
 
 
 # Beeswarm Plot showing the percentage of Government Debt as a proportion of GDB for the 35 OECD countires over time, 1995 to 2018
