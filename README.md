@@ -15,7 +15,7 @@ This class reminded me of a YouTube channel called Vox. A large majority of Vox'
 # Assignment 4: Data Visualisation & Redesign
 
 ## Graph by PwC
-For this Data Visualization assignment, I critiqued and redesigned the below graph published by PwC in 2017 regarding the projected number of female drivers in Saudi Arabia. [Click here to view their full report,](https://argaamplus.s3.amazonaws.com/664c5b42-f612-4227-91b7-398bfe847e4a.pdf). 
+For this Data Visualization assignment, I critiqued and redesigned the below graph published by PwC in 2017 regarding the projected number of female drivers in Saudi Arabia. [Click here to view their full report,](https://argaamplus.s3.amazonaws.com/664c5b42-f612-4227-91b7-398bfe847e4a.pdf) or view the screen shot of the critiqued graph below:
 
 <img width="524" alt="Screen Shot 2020-02-02 at 12 49 17 AM" src="https://user-images.githubusercontent.com/60077122/73603912-1d0bb800-4557-11ea-8bca-edab442308da.png">
 
