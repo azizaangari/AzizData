@@ -48,18 +48,18 @@ Most of the data sources I found were on the United States Census, but some are 
 
 ### U.S. Census Data:
 
-[H-1B Employer Data Hub](https://www.uscis.gov/h-1b-data-hub?topic_id=nbc&state=All&city=&zip=&fy=All&naics=All "Census")
+1. [H-1B Employer Data Hub](https://www.uscis.gov/h-1b-data-hub?topic_id=nbc&state=All&city=&zip=&fy=All&naics=All "Census")
 
-[Trend of H1B Petitions, 2007 Through 2017](https://www.uscis.gov/sites/default/files/USCIS/Resources/Reports%20and%20Studies/Immigration%20Forms%20Data/BAHA/h-1b-2007-2017-trend-tables.pdf)
+2. [Trend of H1B Petitions, 2007-2017](https://www.uscis.gov/sites/default/files/USCIS/Resources/Reports%20and%20Studies/Immigration%20Forms%20Data/BAHA/h-1b-2007-2017-trend-tables.pdf)
 
-[H-1B Petitions by Gender and Country of Birth](https://www.uscis.gov/sites/default/files/USCIS/Resources/Reports%20and%20Studies/H-1B/h-1b-petitions-by-gender-country-of-birth-fy2018.pdf)
+3. [H-1B Petitions by Gender and Country of Birth](https://www.uscis.gov/sites/default/files/USCIS/Resources/Reports%20and%20Studies/H-1B/h-1b-petitions-by-gender-country-of-birth-fy2018.pdf)
 
 
 ### Non-Census Data:
 
-[Forbes: Recent Changes To The H1B Visa Program And What Is Coming In 2019](https://www.forbes.com/sites/andyjsemotiuk/2019/01/02/recent-changes-to-the-h1b-visa-program-and-what-is-coming-in-2019/#475e63074a81)
+1. [Forbes: Recent Changes To The H1B Visa Program And What Is Coming In 2019](https://www.forbes.com/sites/andyjsemotiuk/2019/01/02/recent-changes-to-the-h1b-visa-program-and-what-is-coming-in-2019/#475e63074a81 "Forbes Magazine")
 
-[H1B Data: Cities with most H-1B filings, and their salaries](https://h1bdata.info/topcities.php)
+2. [H1B Data: Cities with most H-1B filings, and their salaries](https://h1bdata.info/topcities.php)
 
 
 
