@@ -60,7 +60,7 @@ With the new lottery system implemented for H-1B applicants, a majority of them 
 
 # Data
 
-Most of the data sources I found were on the United States Census, but some are not. Below are links to all my current publicly available data sources:
+Most of the data sources I found were on the United States Census, but some are not. I will be utilizing census data as it is considered to be the most reputable regarding my topic. Immigration law scholarly articles would also be a good source to add some fun facts and extra material. For the most part, however, I will be using data directly from the US Census as well as some other publications that provide sources for their data. Since Immigration can be somewhat of a hostile topic to research, my focus will be primarily from publicly available government-based information. Below are links to all my current publicly available data sources:
 
 ### U.S. Census Data:
 
