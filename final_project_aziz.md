@@ -80,3 +80,7 @@ Most of the data sources I found were on the United States Census, but some are 
 
 
 # Method & Medium
+
+I plan on utilizing Tableau and Shorthand to document my final project. I chose Tableau exclusively because much of the data I will be working with involves geography and year-to-year information. And Tableau is perfect for that. I haven't started looking into shorthand but based on my understanding of the tool is that it can be perfect for summarizing big data in a way that is easy for the end user to interpret and understand.
+
+Thus, I will be conducting research using the data from census presented above as well as from reputable sources and news outlets to try and create a story about H-1B and how that affects the economy and internationals as a whole. My story will mainly focus on the hypothesis listed at the top of the page and I will be formatting my entire project based on coming up with an answer to that hypothesis.
