@@ -58,3 +58,8 @@ Below are answers to all 7 individuals. Several changes have been implemented ac
 
 <img width="1208" alt="Screen Shot 2020-02-16 at 11 20 25 PM" src="https://user-images.githubusercontent.com/60077122/74623572-1bbfbb00-5113-11ea-910e-45ef772b260d.png">
 
+
+# Revised Wireframes & Storyboards after user feedback
+
+
+
