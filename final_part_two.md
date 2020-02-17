@@ -43,9 +43,13 @@ As stated earlier, I begin by asking a few background information. As shown belo
 After asking about their background, I show them the initial wireframe / storyboard and ask them to take a look at it for as much time as they need (most took less than 3 minutes), and I would then ask them the below questions regarding the wireframes:
 
 1. **_On a scale of 1-5, how easily can you understand the information provided in the wireframes/storyboards?_**
+
 2. **_Based on your understanding of immigration law and H-1B visas, is there anything surprising from these visuals/sketches?_**
+
 3. **_What would you add to make things better to understand?_**
+
 4. **_What would you remove to make things better to understand?_**
+
 5. **_What information do you think would be beneficial for companies & beneficiaries filing for H-1B Visas to know and be included in this study?_**
 
 ### Findings
