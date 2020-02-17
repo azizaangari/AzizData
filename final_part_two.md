@@ -27,26 +27,26 @@ I managed to find 7 individuals to participate in the study. All but one are und
 
 As stated earlier, I begin by asking a few background information. As shown below:
 
-**_Do you have any knowledge whatsoever on H-1B Visas? (if yes, then I proceed.)_**
+1. **_Do you have any knowledge whatsoever on H-1B Visas? (if yes, then I proceed.)_**
 
-**_What is the race you identify with?_**
+2. **_What is the race you identify with?_**
 
-**_What is the gender you identify with?_**
+3. **_What is the gender you identify with?_**
 
-**_What is yout nationality/Immigration status?_**
+4. **_What is yout nationality/Immigration status?_**
 
-**_What is your academic major?_**
+5. **_What is your academic major?_**
 
-**_On a scale of 1-5, how would you rate your knowledge of H-1B Visas with 5 being the highest?_**
+6. **_On a scale of 1-5, how would you rate your knowledge of H-1B Visas with 5 being the highest?_**
 
 
 After asking about their background, I show them the initial wireframe / storyboard and ask them to take a look at it for as much time as they need (most took less than 3 minutes), and I would then ask them the below questions regarding the wireframes:
 
-*On a scale of 1-5, how easily can you understand the information provided in the wireframes/storyboards?
-*Based on your understanding of immigration law and H-1B visas, is there anything surprising from these visuals/sketches?
-*What would you add to make things better to understand?
-*What would you remove to make things better to understand?
-*What information do you think would be beneficial for companies & beneficiaries filing for H-1B Visas to know and be included in this study?
+1. **_On a scale of 1-5, how easily can you understand the information provided in the wireframes/storyboards?_**
+2. **_Based on your understanding of immigration law and H-1B visas, is there anything surprising from these visuals/sketches?_**
+3. **_What would you add to make things better to understand?_**
+4. **_What would you remove to make things better to understand?_**
+5. **_What information do you think would be beneficial for companies & beneficiaries filing for H-1B Visas to know and be included in this study?_**
 
 ### Findings
 
