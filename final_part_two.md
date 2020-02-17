@@ -27,7 +27,7 @@ I managed to find 7 individuals to participate in the study. All but one are und
 
 As stated earlier, I begin by asking a few background information. As shown below:
 
-*Do you have any knowledge whatsoever on H-1B Visas? (if yes, then I proceed.)
+*_Do you have any knowledge whatsoever on H-1B Visas? (if yes, then I proceed.)_*
 *What is the race you identify with?
 *What is the gender you identify with?
 *What is yout nationality/Immigration status?
