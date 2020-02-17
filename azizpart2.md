@@ -61,11 +61,16 @@ Below are answers to all 7 individuals. Several changes have been implemented ac
 
 # Revised Wireframes & Storyboards after user feedback
 
-Below is my revised wireframe and storyboard after taking the above feedback into consideration. As you can see, I included all major comments and omitted ones that were not relevant. Some of the things I added in my new, adjusted wireframe include:
+Below is my revised wireframe and storyboard after taking the above feedback into consideration. As you can see, I included all major comments and omitted ones that were not relevant. I inclded my kew findings of my user research, listed below.
+
+## Key Findings
 
 1. Split of Startups vs. Big Companies that sponsor H-1B workers
+
 2. The disparity between U.S. Citizen compensation vs. H-1B compensation in the represented tech companies
+
 3. The split between F-1 and non F-1 applicants for H-1B Visas
+
 4. How long it takes, how much it costs, what the acceptance rate is in the H-1B Visa process
 
 ![New Wireframe 1](https://user-images.githubusercontent.com/60077122/74624223-a43f5b00-5115-11ea-9999-fd2c596342ca.png)
