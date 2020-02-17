@@ -59,7 +59,7 @@ Below are answers to all 7 individuals. Several changes have been implemented ac
 <img width="1208" alt="Screen Shot 2020-02-16 at 11 20 25 PM" src="https://user-images.githubusercontent.com/60077122/74623572-1bbfbb00-5113-11ea-910e-45ef772b260d.png">
 
 
-# Revised Wireframes & Storyboards after user feedback
+# Revised Wireframes & Key Findings
 
 Below is my revised wireframe and storyboard after taking the above feedback into consideration. As you can see, I included all major comments and omitted ones that were not relevant. I inclded my kew findings of my user research, listed below.
 
@@ -72,6 +72,9 @@ Below is my revised wireframe and storyboard after taking the above feedback int
 3. The split between F-1 and non F-1 applicants for H-1B Visas
 
 4. How long it takes, how much it costs, what the acceptance rate is in the H-1B Visa process
+
+
+## Revised Wireframes
 
 ![New Wireframe 1](https://user-images.githubusercontent.com/60077122/74624223-a43f5b00-5115-11ea-9999-fd2c596342ca.png)
 
