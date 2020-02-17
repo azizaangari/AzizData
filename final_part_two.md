@@ -27,12 +27,18 @@ I managed to find 7 individuals to participate in the study. All but one are und
 
 As stated earlier, I begin by asking a few background information. As shown below:
 
-*_Do you have any knowledge whatsoever on H-1B Visas? (if yes, then I proceed.)_*
-*_What is the race you identify with?_*
-*_What is the gender you identify with?_*
-*_What is yout nationality/Immigration status?_*
-*_What is your academic major?_*
-*_On a scale of 1-5, how would you rate your knowledge of H-1B Visas with 5 being the highest?_*
+**_Do you have any knowledge whatsoever on H-1B Visas? (if yes, then I proceed.)_**
+
+**_What is the race you identify with?_**
+
+**_What is the gender you identify with?_**
+
+**_What is yout nationality/Immigration status?_**
+
+**_What is your academic major?_**
+
+**_On a scale of 1-5, how would you rate your knowledge of H-1B Visas with 5 being the highest?_**
+
 
 After asking about their background, I show them the initial wireframe / storyboard and ask them to take a look at it for as much time as they need (most took less than 3 minutes), and I would then ask them the below questions regarding the wireframes:
 
