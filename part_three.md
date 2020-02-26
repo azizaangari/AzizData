@@ -184,3 +184,7 @@ Here is my final deliverable on Shorthand, please let me know if you have any qu
 
 [H-1B Visas - By Aziz Alangari](https://carnegiemellon.shorthandstories.com/azizangari/index.html)
 
+And here is a link to my repository, which also leads to a link to my Shorthand:
+
+[Aziz Alangari's Repository](https://github.com/azizaangari/AzizData)
+
