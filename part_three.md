@@ -1,4 +1,4 @@
-# Outline
+# The Idea
 
 ## High-level Outline
 
@@ -85,8 +85,9 @@ I plan on utilizing Shorthand for my final project. I choose to also utilize Tab
 
 Thus, I will be conducting research using the data from census presented above as well as from reputable sources and news outlets to try and create a story about H-1B and how that affects the economy and internationals as a whole. My story will mainly focus on the hypothesis listed at the top of the page and I will be formatting my entire project based on coming up with an answer to that hypothesis.
 
+# Design and user research
 
-# Wireframes
+## Wireframes
 
 Below are my wireframes and initial storyboard for what I used to conduct my user feedback. As you can see, the sketches represent the outline developed in Part 1 of the Final Project. I intentionally chose not to make them "perfect" in order to squeeze in as much information and feedback as possible from the people I interviewed:
 
@@ -165,3 +166,8 @@ Below is my revised wireframe and storyboard after taking the above feedback int
 ## Revised Wireframes
 
 ![New Wireframe 1](https://user-images.githubusercontent.com/60077122/74624223-a43f5b00-5115-11ea-9999-fd2c596342ca.png)
+
+
+# Final Data Story
+
+
