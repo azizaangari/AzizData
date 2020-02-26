@@ -170,4 +170,17 @@ Below is my revised wireframe and storyboard after taking the above feedback int
 
 # Final Data Story
 
+My initial target audience was international students interested in knowing more about the H-1B Visas in general. Through Parts 1 & 2, however, I pivoted to a more broader audience and making the shift to college & graduate students in general. The reason being that, specifically after conducting user feedback and targeting international students at CMU, many concerns were related to in-depth details regarding the H-1B process. Most international students were already aware of H-1B Visas and were more interested in elements relating to the application itself, rather than a braod undersdtanding of what it is. 
+
+Aspects such as transitioning from Student F-1 Visas to H-1B, the average time it takes, and financial obligations by employer and how that affects the employment process were all topics of interest to international students. While I do agree that the aforementioned aspects are of higher value, for the purpose of this study and length of the course I decided to limit my research to the demographics and general idea of the visa itself. However, I do give some highlights that do indicate the concerns of international students. Most of these are historical data that I converted into visualizations: gender distribuiton of applicants, approvals based on country of birth, and historical trends of the geographical locations of companies in the U.S. that do sponsor H-1B candidates.
+
+In summary my focus narrowed, as shown between the differences of parts 1 & my final presentation, from the goal of relating nationailities of H-1B Visas and linking them to the job market and economic health of those individual countries, into an area of focus that talks about the demographics and key aspects of the current status quo of the H-1B visa process.
+
+My learnings were almost entirely derived from my user research. I learned from an AI graduate student from China that the lottery of H-1B will be digitized this year for the first time. I also learned from an undergraduate Global Studies major that it is worth highlighting the top companies from each industry, and not overall. It would be more equitable to shed some light on companies within the entertainment industry, for example, that do sponsor candidates in an industry where H-1B is relatively absent. Overall, I'm glad I went in depth with my user research to help articulate a smooth, more eloquent story.
+
+# ShortHand
+
+Here is my final deliverable on Shorthand, please let me know if you have any questions:
+
+[H-1B Visas - By Aziz Alangari](https://carnegiemellon.shorthandstories.com/azizangari/index.html)
 
