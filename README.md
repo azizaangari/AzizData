@@ -2,35 +2,26 @@
 Here is my public portfolio, excited to share this with the Telling Stories with Data class.
 
 # About Me
-My name is Aziz and I'm an international student from Saudi Arabia studying Entertainment. I decided to join the MEIM program at CMU shortly after the rise of the entertainment industry in Saudi Arabia. I plan on utilizing the skills gained in the MEIM program to develop a more structural sense of the entertainment industry. This can includes efficiently monetizing concerts and events, managing policies regarding entertainment, as well as uplift a long-hidden stream of talent among Saudis.
+My name is Aziz and I'm a Master's student from Saudi Arabia studying Entertainment. I decided to join the MEIM program at Carnegie Mellon due to my interest in story writing and development in general. I plan on utilizing the skills gained in the MEIM program to develop a more structural sense of the entertainment industry. 
 
-# What I hope to learn
-This class reminded me of a YouTube channel called Vox. A large majority of Vox's content includes visually appealing graphs and mindmaps that engage the reader (or watcher). I am interested in the idea of utilizing visuals to simplify complicated data that would have not been accessible to the average person otherwise. Learning how to read, critique, and build visually appealing datasets is what I hope to learn from this course.
+# What I hoped to learn from this class
+This class reminded me of Vox's YouTube channel. A large majority of Vox's content includes visually appealing graphs and mindmaps that engage the reader (or watcher). I am interested in the idea of utilizing visuals to simplify complicated data that would have not been accessible to the average person otherwise. Learning how to read, critique, and build visually appealing datasets is what I hope to learn from this course.
+
+# What I have learned from this class
+I enjoyed the utilization of visualization tools like Tableau. Part of my career outcomes at CMU includes storytelling abilities and, much like Vox, creative content is ameliorated with the use of solid visualizations. 
 
 # Final Project
-[Click here to view my final project on Shorthand](https://carnegiemellon.shorthandstories.com/azizangari/index.html)
+[Click here](https://carnegiemellon.shorthandstories.com/azizangari/index.html) to view my final project on Shorthand, in which I talk about H-1B visas in the United States.
 
-# Assignment 2: OECD data visualization
+# Behind the Scenes 
+Below is the process I used to create my final deliverable. Each subset in this section either includes the process and development of my project since the beginning of the course (parts 1 through 3), or supporting materials/assignments that further provide insights on data visualizations and critiques.
 
-[Click Here to View Assignment 2](https://azizaangari.github.io/AzizData/datavis2)
-
-
-# Assignment 4: Data Visualisation & Redesign
-
-## Graph by PwC
-For this Data Visualization assignment, I critiqued and redesigned the below graph published by PwC in 2017 regarding the projected number of female drivers in Saudi Arabia. I chose this visualization because I was interested in a topic related to Saudi Arabia. Additionally, I am interested in how much consultants take time to review their visualizations before publishing them. In this case, PwC did not do a very good job.
-
-[Click here to view their full report,](https://argaamplus.s3.amazonaws.com/664c5b42-f612-4227-91b7-398bfe847e4a.pdf) or see the screen shot conveniently provided below:
-
-<img width="524" alt="Screen Shot 2020-02-02 at 12 49 17 AM" src="https://user-images.githubusercontent.com/60077122/73603912-1d0bb800-4557-11ea-8bca-edab442308da.png">
+# Project Parts 1-3
 
 
-## A Clean, Redesigned PwC Graph
-Below is my redesign of the graph by PwC. As you can see, I omitted much of the unnecessary data such as projected male drivers (because who cares about that?). I also removed the data of overall population and, instead, compared projected female drivers with the female population in 2020. I felt like this gives more context and provides a fair representation of the projected growth of Saudi female drivers against their female counterparts. At first, I thought the data could be easily deconstructed, but it turns out PwC could have included more information such as the rate of change of the population across that 4-year period. However, that information was not provided, which led me to omit much of the data points from the original graph. It took me a while to decide on which type of visualization to use for my redesign, but through trial and error I decided that a horizontal, stacked column chart works best here. 
 
-The overall highlight of my redesign was my reinforcement of the idea "less is more". The original PwC chart included too much unnecessary information, and unflattering iconography that did not give much context and in fact led to confusion. I wanted to edit the graph without removing anything, or at least beautifying its ugly parts, but I looked at the big picture: what does the audience want to know? They simply want to know how many female drivers will there be by 2020. That's it. I removed all of PwC's mess and concluded with a simple, yet informative (not to mention interactive!) visualization.
+# Supporting Material
 
-Here is my redesign, made with Infogram:
+[OECD data visualization](https://azizaangari.github.io/AzizData/datavis2) - Critique & Redesign
 
-
-<div class="infogram-embed" data-id="4843b8bc-e4db-43a6-a888-d2e3cddeaba6" data-type="interactive" data-title="Blank template"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/4843b8bc-e4db-43a6-a888-d2e3cddeaba6" style="color:#989898!important;text-decoration:none!important;" target="_blank">Blank template</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+[PwC Graph](https://argaamplus.s3.amazonaws.com/664c5b42-f612-4227-91b7-398bfe847e4a.pdf) - Critique & Redesign
