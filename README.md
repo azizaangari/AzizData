@@ -33,7 +33,7 @@ Finally, my final deliverable in Shorthand can be found **<a href="https://carne
 
 # Contact & Social Information
 
-**Aziz on <a href="www.linkedin.com/in/azizangari" target="_blank">LinkedIn</a>**
+**Aziz on <a href="https://www.linkedin.com/in/azizangari/" target="_blank">LinkedIn</a>**
 
 **Aziz on [Twitter](www.twitter.com/azizangari)**
 
