@@ -1,5 +1,5 @@
 # Aziz Alangari's Portfolio
-Welcome to my online portfolio, excited to share this with the <a href="https://api.heinz.cmu.edu/courses_api/course_detail/94-870" target="_blank">Telling Stories with Data</a> course at Carnegie Mellon University.
+Welcome to my online portfolio, excited to share this with the **<a href="https://api.heinz.cmu.edu/courses_api/course_detail/94-870" target="_blank">Telling Stories with Data</a>** course at Carnegie Mellon University.
 
 ## About Me
 My name is Aziz and I'm a Master's student from Saudi Arabia studying Entertainment. I decided to join the <a href="https://www.heinz.cmu.edu/programs/entertainment-industry-management-master/" target="_blank">MEIM program</a> at CMU due to my interest in story writing and development in general. I plan on utilizing the skills gained in the MEIM program to develop a more structural sense of the entertainment industry. 
