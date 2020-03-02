@@ -1,5 +1,5 @@
 # Aziz Alangari's Portfolio
-Here is my public portfolio, excited to share this with the Telling Stories with Data class at Carnegie Mellon University.
+Welcome to my online portfolio, excited to share this with the Telling Stories with Data class at Carnegie Mellon University.
 
 # About Me
 My name is Aziz and I'm a Master's student from Saudi Arabia studying Entertainment. I decided to join the MEIM program at Carnegie Mellon due to my interest in story writing and development in general. I plan on utilizing the skills gained in the MEIM program to develop a more structural sense of the entertainment industry. 
