@@ -38,4 +38,4 @@ Finally, my final deliverable in Shorthand can be found **<a href="https://carne
 
 **Aziz on [Twitter](www.twitter.com/azizangari)**
 
-Email: azizangari@cmu.edu
+**Email:[azizangari@cmu.edu](mailto:azizangari@cmu.edu)**
