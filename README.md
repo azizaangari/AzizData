@@ -35,6 +35,6 @@ Finally, my final deliverable in Shorthand can be found <a href="https://carnegi
 
 azizangari@cmu.edu
 
-[www.linedin.com/in/azizangari](www.linedin.com/in/azizangari) 
+[www.linkedin.com/in/azizangari](www.linedin.com/in/azizangari) 
 
 [www.twitter.com/azizangari](www.twitter.com/azizangari)
