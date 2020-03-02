@@ -16,12 +16,17 @@ I enjoyed the utilization of visualization tools like Tableau. Part of my career
 # Behind the Scenes 
 Below is the process I used to create my final deliverable. Each subset in this section either includes the process and development of my project since the beginning of the course (parts 1 through 3), or supporting materials/assignments that further provide insights on data visualizations and critiques.
 
-# Project Parts 1-3
+# Project Parts
 
+My outline, wireframes, storyboards and user research can be found [here](https://azizaangari.github.io/AzizData/azizpart2)
 
+I go more in-depth after my user research and start funneling my visualizations and ideas [here](https://azizaangari.github.io/AzizData/part_three)
+
+Finally, my final deliverable in Shorthand can be found [here](https://carnegiemellon.shorthandstories.com/azizangari/index.html)
 
 # Supporting Material
 
-[OECD data visualization](https://azizaangari.github.io/AzizData/datavis2) - Critique & Redesign
+[PwC Graph](https://azizaangari.github.io/AzizData/datavis1) - Critique & Redesign 1
 
-[PwC Graph](https://argaamplus.s3.amazonaws.com/664c5b42-f612-4227-91b7-398bfe847e4a.pdf) - Critique & Redesign
+[OECD data visualization](https://azizaangari.github.io/AzizData/datavis2) - Critique & Redesign 2
+
