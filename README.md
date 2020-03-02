@@ -16,19 +16,19 @@ I enjoyed the utilization of visualization tools like Tableau. Part of my career
 Below is the breakdown of my project from A-Z. It includes my process from wireframing & brainstorming to gathering feedback and creating my final deliverable.
 
 # Behind the Scenes 
-Below is the process I used to create my final deliverable. Each subset in this section either includes the process and development of my project since the beginning of the course (parts 1 through 3), or supporting materials/assignments that further provide insights on data visualizations and critiques.
+Below is the process I used to create my final deliverable. Each subset in this section includes the process and development of my project since the beginning of the course, and supporting materials that further provide insights on data visualizations and critiques.
 
-### My outline, wireframes, storyboards and user research can be found [here](https://azizaangari.github.io/AzizData/azizpart2)
+My outline, wireframes, storyboards and user research can be found [here](https://azizaangari.github.io/AzizData/azizpart2)
 
-### I go more in-depth after my user research and start funneling my visualizations and ideas [here](https://azizaangari.github.io/AzizData/part_three)
+I go more in-depth after my user research and start funneling my visualizations and ideas [here](https://azizaangari.github.io/AzizData/part_three)
 
-### Finally, my final deliverable in Shorthand can be found [here](https://carnegiemellon.shorthandstories.com/azizangari/index.html)
+Finally, my final deliverable in Shorthand can be found [here](https://carnegiemellon.shorthandstories.com/azizangari/index.html)
 
 ## Supporting Material
 
-### [PwC Graph](https://azizaangari.github.io/AzizData/datavis1) - Critique & Redesign 1
+[PwC Graph](https://azizaangari.github.io/AzizData/datavis1) - Critique & Redesign 1
 
-### [OECD data visualization](https://azizaangari.github.io/AzizData/datavis2) - Critique & Redesign 2
+[OECD data visualization](https://azizaangari.github.io/AzizData/datavis2) - Critique & Redesign 2
 
 # Contact & Social Information
 
