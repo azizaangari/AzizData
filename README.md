@@ -15,7 +15,7 @@ I enjoyed the utilization of visualization tools like Tableau. Part of my career
 
 Below is the breakdown of my project from A-Z. It includes my process from wireframing & brainstorming to gathering feedback and creating my final deliverable.
 
-# Behind the Scenes 
+## Behind the Scenes 
 Below is the process I used to create my final deliverable. Each subset in this section includes the process and development of my project since the beginning of the course, and supporting materials that further provide insights on data visualizations and critiques.
 
 My outline, wireframes, storyboards and user research can be found **<a href="https://azizaangari.github.io/AzizData/azizpart2" target="_blank">here</a>**
