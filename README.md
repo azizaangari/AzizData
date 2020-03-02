@@ -33,5 +33,7 @@ Finally, my final deliverable in Shorthand can be found [here](https://carnegiem
 # Contact & Social Information
 
 azizangari@cmu.edu
+
 [www.linedin.com/in/azizangari](www.linedin.com/in/azizangari) 
+
 [www.twitter.com/azizangari](www.twitter.com/azizangari)
