@@ -33,9 +33,8 @@ Finally, my final deliverable in Shorthand can be found **<a href="https://carne
 
 # Contact & Social Information
 
+**Aziz on <a href="www.linkedin.com/in/azizangari" target="_blank">LinkedIn</a>**
 
-**Aziz on [LinkedIn](www.linkedin.com/in/azizangari)
-
-**Aziz on [Twitter](www.twitter.com/azizangari)
+**Aziz on [Twitter](www.twitter.com/azizangari)**
 
 **Email: [azizangari@cmu.edu](mailto:azizangari@cmu.edu)**
