@@ -1,23 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@azizaangari 
-OpenGlobe
-/
-portfolio
-0
-01
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-portfolio/sample_google_styling_wizard_template.html
-@OpenGlobe OpenGlobe Create sample_google_styling_wizard_template.html
-570b356 on Nov 4, 2019
-39 lines (38 sloc)  1.19 KB
-  
 <!DOCTYPE html>
 <html>
   <head>
@@ -57,15 +37,3 @@ portfolio/sample_google_styling_wizard_template.html
     async defer></script>
   </body>
 </html>
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
