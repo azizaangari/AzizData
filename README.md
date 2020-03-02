@@ -35,6 +35,6 @@ Finally, my final deliverable in Shorthand can be found **<a href="https://carne
 
 **Aziz on <a href="https://www.linkedin.com/in/azizangari/" target="_blank">LinkedIn</a>**
 
-**Aziz on [Twitter](www.twitter.com/azizangari)**
+**Aziz on [Twitter](https://www.twitter.com/azizangari)**
 
 **Email: [azizangari@cmu.edu](mailto:azizangari@cmu.edu)**
