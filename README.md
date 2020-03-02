@@ -30,3 +30,7 @@ Finally, my final deliverable in Shorthand can be found [here](https://carnegiem
 
 [OECD data visualization](https://azizaangari.github.io/AzizData/datavis2) - Critique & Redesign 2
 
+# Contact Information
+
+azizangari@cmu.edu
+
